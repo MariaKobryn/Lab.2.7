@@ -1,0 +1,11 @@
+﻿  UnitTest2.7.cpp
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Payment.cpp(59,15): warning C4101: 'z': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Payment.cpp(59,12): warning C4101: 'y': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Payment.cpp(59,21): warning C4101: 'l': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Payment.cpp(59,9): warning C4101: 'x': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Payment.cpp(59,18): warning C4101: 'g': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Money.cpp(101,21): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Money.cpp(105,21): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+C:\Users\Maria\source\repos\Lab.2.7\UnitTest2.7\UnitTest2.7.cpp(20,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\Maria\source\repos\Lab.2.7\Debug\UnitTest2.7.lib and object C:\Users\Maria\source\repos\Lab.2.7\Debug\UnitTest2.7.exp
+  UnitTest2.7.vcxproj -> C:\Users\Maria\source\repos\Lab.2.7\Debug\UnitTest2.7.dll

@@ -1,0 +1,12 @@
+﻿  Lab.2.7.cpp
+  Money.cpp
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Money.cpp(101,21): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Money.cpp(105,21): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+  Payment.cpp
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Payment.cpp(59,15): warning C4101: 'z': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Payment.cpp(59,12): warning C4101: 'y': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Payment.cpp(59,21): warning C4101: 'l': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Payment.cpp(59,9): warning C4101: 'x': unreferenced local variable
+C:\Users\Maria\source\repos\Lab.2.7\Lab.2.7\Payment.cpp(59,18): warning C4101: 'g': unreferenced local variable
+  Generating Code...
+  Lab.2.7.vcxproj -> C:\Users\Maria\source\repos\Lab.2.7\Debug\Lab.2.7.exe
